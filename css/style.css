@@ -10,7 +10,7 @@ header {
 }
 
 footer{
-    margin-top: -5px;
+    margin-top: -10px;
     height: 44px;
 }
 
@@ -96,6 +96,7 @@ a,a:hover{
     cursor: initial;
     opacity: 0;
 }
+
 
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) {

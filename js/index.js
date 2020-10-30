@@ -1,6 +1,6 @@
 const   target = document.getElementById('menu-rapido'),
         btnArriba = document.getElementById('accion-subir'),
-        hold = 1;
+        hold = 0.50;
 
 /* <Hace scroll a elemento en concreto> */
 function ir(id){
